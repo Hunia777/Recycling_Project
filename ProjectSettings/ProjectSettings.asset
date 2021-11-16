@@ -128,7 +128,11 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 0}
+  - {fileID: -184647784445192137, guid: a8a88dbeb67136345bb5772dd55b75d1, type: 2}
+  - {fileID: 4300781011194061600, guid: 7a40e24cb29cf294482ddafbbf3c8610, type: 2}
+  - {fileID: 3840656615370997753, guid: b09a09ab07158bc4a821c81422ce1ed9, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -601,11 +605,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Recycling
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 801536a628f9d801
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: First_Recycling
