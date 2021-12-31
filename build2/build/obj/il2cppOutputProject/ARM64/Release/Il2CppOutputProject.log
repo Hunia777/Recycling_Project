@@ -1,0 +1,134 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 16.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX64\ARM64\link.exe
+  	Msvc Compiler Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX64\ARM64\cl.exe
+  
+  	Output directory: C:\Users\user\Documents\GitHub\Recycling_Project\build2\build\bin\ARM64\Release
+  	Cache directory: C:\Users\user\Documents\GitHub\Recycling_Project\build2\build\obj\il2cppOutputProject\ARM64\Release
+  Unity.InputSystem_CodeGen.c
+  Il2CppGenericAdjustorThunkTable.cpp
+  mscorlib_CodeGen.c
+  Il2CppGenericClassTable.c
+  Il2CppGenericMethodTable.c
+  Il2CppInteropDataTable.cpp
+  Il2CppGenericInstDefinitions.c
+  Microsoft.MixedReality.Toolkit_CodeGen.c
+  Microsoft.MixedReality.Toolkit.SDK_CodeGen.c
+  Il2CppCCalculateTypeValues1.cpp
+  Assembly-CSharp.cpp
+  Il2CppGenericMethodDefinitions.c
+  Il2CppMetadataUsage.c
+  Il2CppTypeDefinitions.c
+  Il2CppCCWs87.cpp
+  UnityEngine.CoreModule_CodeGen.c
+  Il2CppCCWs86.cpp
+  Il2CppCCWs80.cpp
+  Il2CppCCWs96.cpp
+  Assembly-CSharp1.cpp
+  Il2CppCCWs95.cpp
+  Il2CppCCWs78.cpp
+  Il2CppCCWs76.cpp
+  Il2CppCCWs81.cpp
+  Il2CppCCWs58.cpp
+  Il2CppCCWs19.cpp
+  Il2CppCCWs92.cpp
+  Il2CppCCWs72.cpp
+  Il2CppCCWs83.cpp
+  Il2CppCCWs85.cpp
+  Il2CppCCWs84.cpp
+  Il2CppCCTypeValuesTable.cpp
+  Il2CppCCWs77.cpp
+  Il2CppCCWs20.cpp
+  Il2CppCCWs94.cpp
+  Il2CppCCWs75.cpp
+  Il2CppCCWs62.cpp
+  Il2CppCCWs57.cpp
+  Il2CppCCWs21.cpp
+  Il2CppCCWs61.cpp
+  Il2CppCCWs18.cpp
+  UnityEngine.UI_CodeGen.c
+  Il2CppCCWs91.cpp
+  Il2CppCCWs59.cpp
+  Unity.TextMeshPro_CodeGen.c
+  Il2CppCCWs60.cpp
+  Il2CppCCWs82.cpp
+  Il2CppCCWs88.cpp
+  Il2CppCCWs69.cpp
+  Il2CppCCWs22.cpp
+  Il2CppCCWs23.cpp
+  Il2CppCCWs79.cpp
+  Il2CppCCFieldValuesTable.cpp
+  Il2CppCCWs89.cpp
+  Il2CppCCWs71.cpp
+  Il2CppCCWs93.cpp
+  Il2CppCCWs63.cpp
+  Il2CppCCWs70.cpp
+  Il2CppCCWs68.cpp
+  Il2CppCCWs67.cpp
+  Unity.XR.OpenXR_CodeGen.c
+  Il2CppCCWs66.cpp
+  System_CodeGen.c
+  Il2CppCCWs74.cpp
+  Il2CppCCWs90.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSystem_CodeGen.c
+  Il2CppCCWs65.cpp
+  Il2CppCCWs50.cpp
+  Microsoft.MixedReality.OpenXR_CodeGen.c
+  Il2CppCCWs38.cpp
+  Il2CppCCWs37.cpp
+  Il2CppCCWs47.cpp
+  Il2CppCCWs41.cpp
+  Il2CppCCWs49.cpp
+  Il2CppCCWs56.cpp
+  Il2CppCCWs39.cpp
+  Assembly-CSharp_Attr.cpp
+  Il2CppCCWs52.cpp
+  Il2CppCCWs73.cpp
+  Il2CppCCWs44.cpp
+  Il2CppCCWs42.cpp
+  Il2CppCCWs55.cpp
+  Il2CppCCWs48.cpp
+  Il2CppCCWs45.cpp
+  Il2CppCCalculateFieldValues2.cpp
+  Il2CppCCWs46.cpp
+  Unity.XR.WindowsMixedReality_CodeGen.c
+  Il2CppCCWs51.cpp
+  Assembly-CSharp_CodeGen.c
+  Unity.XR.ARSubsystems_CodeGen.c
+  Il2CppCCWs43.cpp
+  System.Runtime.WindowsRuntime_CodeGen.c
+  Il2CppCCWs53.cpp
+  UnityEngine.AndroidJNIModule_CodeGen.c
+  UnityEngine.XRModule_CodeGen.c
+  Il2CppCCWs54.cpp
+  Unity.XR.ARFoundation_CodeGen.c
+  Il2CppCCWs97.cpp
+  UnityEngine.TextCoreModule_CodeGen.c
+  Il2CppCCWs40.cpp
+  System.Core_CodeGen.c
+  UnityEngine.SubsystemsModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK_CodeGen.c
+  Unity.XR.Management_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Async_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem_CodeGen.c
+  Il2CppCodeRegistration.cpp
+  Microsoft.MixedReality.Toolkit.Services.TeleportSystem_CodeGen.c
+  Il2CppMetadataRegistration.c
+  Il2CppCCWs28.cpp
+  Il2CppCCWs64.cpp
+  ObjectFiles: 651 of which compiled: 111
+  	Time Compile: 9287 milliseconds Il2CppCCWs64.cpp
+  	Time Compile: 8037 milliseconds Il2CppCCWs28.cpp
+  	Time Compile: 7494 milliseconds Il2CppCCWs73.cpp
+  	Time Compile: 2172 milliseconds Il2CppCCWs21.cpp
+  	Time Compile: 2139 milliseconds Il2CppCCWs86.cpp
+  	Time Compile: 1982 milliseconds Il2CppCCWs76.cpp
+  	Time Compile: 1906 milliseconds Il2CppCCWs78.cpp
+  	Time Compile: 1887 milliseconds Il2CppCCWs63.cpp
+  	Time Compile: 1856 milliseconds Il2CppCCWs58.cpp
+  	Time Compile: 1827 milliseconds Il2CppCCWs72.cpp
+  Total compilation time: 9765 milliseconds.
+  C:\Users\user\Documents\GitHub\Recycling_Project\build2\build\obj\il2cppOutputProject\ARM64\Release\linkresult_B18A6C953C4B290E16FC6EFB0C21E65A\GameAssembly.lib ���̺귯�� �� C:\Users\user\Documents\GitHub\Recycling_Project\build2\build\obj\il2cppOutputProject\ARM64\Release\linkresult_B18A6C953C4B290E16FC6EFB0C21E65A\GameAssembly.exp ��ü�� �����ϰ� �ֽ��ϴ�.
+  Total link time: 6605 milliseconds.
+  Cleaned up 112 object files.

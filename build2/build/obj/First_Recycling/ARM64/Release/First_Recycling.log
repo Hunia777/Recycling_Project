@@ -1,0 +1,7 @@
+﻿  App.cpp
+  UnityGenerated.cpp
+C:\Users\user\Documents\GitHub\Recycling_Project\build2\First_Recycling\App.cpp(26,1): warning C4973: 'Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set': 사용되지 않는 것으로 표시되었습니다.
+C:\Users\user\Documents\GitHub\Recycling_Project\build2\First_Recycling\App.cpp(26,1): message : 메시지: 'Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.'
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  First_Recycling.vcxproj -> C:\Users\user\Documents\GitHub\Recycling_Project\build2\build\bin\ARM64\Release\First_Recycling.exe

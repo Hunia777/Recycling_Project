@@ -160,6 +160,8 @@ namespace XR.Break
             {
                 CurrentState = OrbState.Idle;
             }
+            wasTracked = false;
+            Debug.Log("test3\n");
         }
 
         private void UpdatePowerUpVisuals()
@@ -249,10 +251,11 @@ namespace XR.Break
             {
                 if (pointer is LinePointer linePointer)
                 {
+                    Debug.Log("test1\n");
                     return linePointer;
                 }
             }
-
+            Debug.Log("test2\n");
             return null;
         }
     }
